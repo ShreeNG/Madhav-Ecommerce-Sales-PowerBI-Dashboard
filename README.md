@@ -68,7 +68,7 @@ The two tables are connected using **Order ID**.
 - Total Sales Amount: **438K**
 - Total Profit: **37K**
 - Total Quantity: **5,615**
-- Sum of AOV: **121K**
+- Sum of Average Order Value: **121K**
 
 ---
 
