@@ -63,12 +63,6 @@ The two tables are connected using **Order ID**.
 
 ---
 
-## Dashboard
-
-![Madhav Ecommerce Sales Dashboard](Dashboard.png)
-
----
-
 ## Key Performance Indicators
 
 - Total Sales Amount: **438K**
@@ -192,6 +186,14 @@ This dashboard can help:
 - Year-over-year sales comparison
 - Advanced DAX measures
 - Interactive drill-through analysis
+
+---
+
+## Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard.png" alt="Madhav Ecommerce Sales Dashboard" width="100%">
+</p>
 
 ---
 
