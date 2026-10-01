@@ -195,16 +195,6 @@ This dashboard can help:
 
 ---
 
-## Project Files
-
-- `Dashboard.png` – Power BI dashboard preview
-- `ecommerce.pbix` – Power BI project file
-- `Orders.csv` – Order and customer information
-- `Details.csv` – Sales transaction details
-- `ecommerce.pdf` – Project report
-
----
-
 ## Conclusion
 
 This project demonstrates practical Power BI, DAX, Power Query, and data visualization skills by converting ecommerce transaction data into an interactive sales analytics dashboard.
@@ -216,7 +206,3 @@ The analysis provides visibility into sales, profit, product categories, payment
 ## Author
 
 **Shree Gulumbe**
-
-BTech Electronics & Telecommunication Engineering
-
-Interested in Data Analytics, Business Intelligence, SQL, Python, Power BI, and Excel.
