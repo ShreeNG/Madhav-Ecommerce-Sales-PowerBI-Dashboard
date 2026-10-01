@@ -74,88 +74,12 @@ The two tables are connected using **Order ID**.
 
 ## Key Insights
 
-### 1. Sales & Profit Overview
-
-- The dashboard records approximately **438K** in total sales amount.
-- Total profit is approximately **37K**.
-- Total quantity sold is **5,615**.
-- The dashboard provides quarterly filters to compare performance across **Qtr 1, Qtr 2, Qtr 3, and Qtr 4**.
-
-### 2. Top States
-
-The dashboard highlights the following states among the top sales contributors:
-
-- Maharashtra
-- Madhya Pradesh
-- Uttar Pradesh
-- Delhi
-- Rajasthan
-
-Maharashtra appears as the leading state in the dashboard's sales distribution.
-
-### 3. Quantity by Category
-
-The category distribution shows:
-
-| Category | Quantity Share |
-| -------- | -------------- |
-| Clothing | 63% |
-| Electronics | 21% |
-| Furniture | 17% |
-
-Clothing represents the largest share of quantity sold.
-
-### 4. Quantity by Payment Mode
-
-The dashboard analyzes sales quantity across different payment methods:
-
-| Payment Mode | Share |
-| ------------ | ----: |
-| COD | 44% |
-| UPI | 21% |
-| Debit Card | 13% |
-| Credit Card | 12% |
-| EMI | 10% |
-
-COD represents the largest share of quantity among the payment modes shown in the dashboard.
-
-### 5. Profit-Loss by Month
-
-The monthly analysis compares profitable and loss-making months.
-
-- January, February, March, and April show positive profit.
-- May shows a noticeable negative result.
-- June records a small positive result.
-- July, September, October, and December show negative results.
-- November records one of the highest positive profit values in the dashboard.
-
-This visualization helps identify monthly fluctuations in profitability.
-
-### 6. Profit by Sub-Category
-
-The dashboard highlights the following sub-categories:
-
-| Sub-Category | Profit |
-| ------------ | -----: |
-| Printers | 8.6K |
-| Bookcases | 6.5K |
-| Saree | 4.1K |
-| Accessories | 3.4K |
-| Tables | 3.1K |
-
-Printers generate the highest profit among the sub-categories shown.
-
-### 7. Customer-wise Quantity Analysis
-
-The dashboard compares quantity across selected customers, including:
-
-- Harivansh
-- Madhav
-- Madan Mohan
-- Shiva
-- Vishakha
-
-This helps compare customer-level purchase quantities.
+- Total sales reached **438K**, with **37K** total profit.
+- **Clothing** contributes the highest quantity share at **63%**.
+- **COD** is the most used payment mode at **44%**.
+- **Maharashtra** is the top-performing state shown in the dashboard.
+- **Printers** generate the highest profit among the displayed sub-categories.
+- Monthly profit shows fluctuations, with **November** among the strongest months.
 
 ---
 
